@@ -15,3 +15,5 @@ Some of my previous works are:
 I want to be able to learn how to creatively & effectively show data that looks boring in tables and is also not very readable/comparable. I want to know the role of color, size, typography, etc in making a visualization effective or ineffective(on thing that I've learned being in a design program is that knowing what not to is as important as knowing what to do). I want to understand how testing can play a role in improving data visualizations and how I can extend my HCI knowledge to make  visualisations compelling and easy to understand.
 
 # Portfolio
+
+This is where I will post my interesting journey through the Telling Stories with Data class.
