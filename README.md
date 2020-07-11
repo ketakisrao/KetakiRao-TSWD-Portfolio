@@ -19,4 +19,6 @@ I want to be able to learn how to creatively & effectively show data that looks 
 This is where I will post my interesting journey through the Telling Stories with Data class.
 
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/3148220" data-url="https://flo.uri.sh/visualisation/3148220/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+## Analysing Government Debt
+
+[Visualization](https://public.flourish.studio/visualisation/3148220/)
