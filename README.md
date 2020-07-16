@@ -21,8 +21,25 @@ This is where I will post my interesting journey through the Telling Stories wit
 
 ## Analysing Government Debt
 
-<iframe src="https://data.oecd.org/chart/61Rw" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Rw" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
+
+Government debt, also known as national debt, can be described as the difference between a country’s receipts and their spending. It is generally expressed as a percentage of GDP. Below is a simple bar chart of the Government debts in 2019. Below is the latest data for government debt of these selected countries. This bar chart helps you compare and contrast the debt to GDP ratio of these countries.
+
+<iframe src="https://data.oecd.org/chart/61Rx" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Rx" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
+
+
+
+The same government debt to GDP ratios have been plotted below. This time, I have made use of this sparklines grid chart. This chart enables us to see the trends in the government debt to GDP ratio per country over time (1995-2019). Plotting the data this way reveals some interesting insights about it. For example:
+
+1. It is evident that the debt to GDP ratio for **Ireland** peaked during the years of 2012 and 2013.
+2. **Denmark** saw its lowest debt to GDP ratio in the year 2007
+3. The debt to GDP ratio for **Japan** has always been trending upwards, i.e. debt kept rising year after year.
+
+
+
+For this third type of visualization, I wanted to be able to see how I can visualize the real debt of these countries. I also wanted to be able to see whether the population of a country affects the debt it is in. So I’ve merged this dataset with a dataset with the country’s corresponding population & GDP and plotted this scatter plot or a bubble chart (as many of you call it). I’ve assigned the (absolute)amount of debt each country has to the size of the corresponding bubble.
+
+This makes it easy to see that population as the population of a country increases, so does the debt, since the bigger circles are higher up on the x axis. (It is also almost obvious that country with a higher GDP will have a bigger value of absolute debt)
 
 <iframe src='https://flo.uri.sh/visualisation/3148220/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/3148220/?utm_source=embed&utm_campaign=visualisation/3148220' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
