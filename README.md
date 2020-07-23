@@ -48,3 +48,15 @@ This makes it easy to see that population as the population of a country increas
 
 
 <iframe src='https://flo.uri.sh/visualisation/3149327/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/3149327/?utm_source=embed&utm_campaign=visualisation/3149327' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+
+
+
+## Redesign of a chart and testing with user feedback
+
+### Air Pollution
+
+I am generally interested in health data over countries especially in the different causes of deaths. While I was looking for [this chart](https://www.perceptualedge.com/example20.php) I came across a chart that talked about the deaths due to air pollution and it got me intrigued. Check the viusalization below: (https://ourworldindata.org/grapher/death-rates-from-air-pollution)
+
+![Deaths due to Air Pollution](https://github.com/ketakisrao/KetakiRao-TSWD-Portfolio/blob/master/AirPollution.png)
+
