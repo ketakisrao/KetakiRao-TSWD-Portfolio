@@ -85,7 +85,15 @@ So I decided to work on improving this chart by simplifying it into a slope char
 5. Grayed out the "other" (not so important pieces) of the chart.
 
 
-### Feedback received on testing the redesigned chart
+### Feedback received on testing the redesigned chart (Person 1)
+1. Impact of air pollution on health/fatality.
+2. This is telling the total number of people died due to air pollution has actually decreased.
+3. Surprising/confusing because outdoor air pollution has no impact on fatality.
+4. Organizations/govts anyone  who contribute to air pollution.
+5. I would have more datapoints.
+
+
+### Feedback received on testing the redesigned chart (Person 2)
 1. The title is short but confusing.
 2. Not having labels on X and Y axes makes it confusing to understand the data it represents. I thought having the scale in 1000s would make it clear that the y axis refers to number of deaths but the viewers mistook it for the total amount of air pollution.
 3. But the message from the chart is pretty clear and is pretty intuitive.
