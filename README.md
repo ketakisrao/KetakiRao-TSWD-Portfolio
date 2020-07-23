@@ -65,6 +65,7 @@ This particular chart is a part of a bigger story that talks about the deaths du
 **Pros:**
 1. The trend is captured by the line chart.
 2. The correct source of data has been attributed.
+
 **Cons:**
 1. The main message of this chart is to show that deaths due to air pollution have significantly decreased due to improved indoor air conditions. But this seems to get lost with all the color in the chart.
 2. The background/grid lines are of the same thickness as the chart lines which adds to the confusion.
@@ -77,7 +78,7 @@ So I decided to work on improving this chart by simplifying it into a slope char
 ![Redesign of Deaths due to Air Pollution](https://github.com/ketakisrao/KetakiRao-TSWD-Portfolio/blob/master/RedesignAirPollution.jpg)
 
 #### Design Decisions
-1. Made the title more engaging and explanatory so that users know what to expect in the chart.
+1. Made the title more engaging and descriptive so that users know what to expect in the chart.
 2. Made the lines for indoor air pollution and total air pollution thicker so as to call attention to them.
 3. Got rid of the grid lines as they add to the "visual clutter" in the chart.
 4. Changed the chart type to slope charts so that the trends are easily visible.
