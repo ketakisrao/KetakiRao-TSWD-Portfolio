@@ -58,7 +58,7 @@ This makes it easy to see that population as the population of a country increas
 
 I am generally interested in health data over countries especially in the different causes of deaths. While I was looking for [this chart](https://www.perceptualedge.com/example20.php) I came across a chart that talked about the trend in deaths due to air pollution and it got me intrigued. Check the viusalization below: (https://ourworldindata.org/grapher/death-rates-from-air-pollution)
 
-![Trends in Deaths due to Air Pollution](https://github.com/ketakisrao/KetakiRao-TSWD-Portfolio/blob/master/AirPollution.png)
+![Trends in Deaths due to Air Pollution](https://raw.githubusercontent.com/ketakisrao/KetakiRao-TSWD-Portfolio/master/AirPollution.png)
 
 This particular chart is a part of a bigger story that talks about the deaths due to air pollution and the whole intent of this chart is to show that even though the total deaths due to air pollution are decreasing the actual reason behind it is better indoor conditions and not outdoor pollution, ie improved indoor air conditions are the contributors to reduction in deaths due to air pollution. Here is my critique of the above chart:
 
@@ -75,7 +75,7 @@ This particular chart is a part of a bigger story that talks about the deaths du
 
 
 So I decided to work on improving this chart by simplifying it into a slope chart with lesser colors and making design changes so as to call attention to the parts which get the message across. Here is my first iteration:
-![Redesign of Deaths due to Air Pollution](https://github.com/ketakisrao/KetakiRao-TSWD-Portfolio/blob/master/RedesignAirPollution.jpg)
+![Redesign of Deaths due to Air Pollution](https://raw.githubusercontent.com/ketakisrao/KetakiRao-TSWD-Portfolio/master/RedesignAirPollution.jpg)
 
 #### Design Decisions
 1. Made the title more engaging and descriptive so that users know what to expect in the chart.
@@ -101,7 +101,7 @@ So I decided to work on improving this chart by simplifying it into a slope char
 
 ### Final version of the chart
 
-![Final Redesigned Chart](https://github.com/ketakisrao/KetakiRao-TSWD-Portfolio/blob/master/Final%20Redesign.png)
+![Final Redesigned Chart](https://raw.githubusercontent.com/ketakisrao/KetakiRao-TSWD-Portfolio/master/Final%20Redesign.png)
 
 This is the final redesign of the Air Pollution chart. Changes made:
 1. Changed the title to be more descriptive.
