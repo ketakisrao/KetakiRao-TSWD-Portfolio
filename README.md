@@ -56,7 +56,45 @@ This makes it easy to see that population as the population of a country increas
 
 ### Air Pollution
 
-I am generally interested in health data over countries especially in the different causes of deaths. While I was looking for [this chart](https://www.perceptualedge.com/example20.php) I came across a chart that talked about the deaths due to air pollution and it got me intrigued. Check the viusalization below: (https://ourworldindata.org/grapher/death-rates-from-air-pollution)
+I am generally interested in health data over countries especially in the different causes of deaths. While I was looking for [this chart](https://www.perceptualedge.com/example20.php) I came across a chart that talked about the trend in deaths due to air pollution and it got me intrigued. Check the viusalization below: (https://ourworldindata.org/grapher/death-rates-from-air-pollution)
 
-![Deaths due to Air Pollution](https://github.com/ketakisrao/KetakiRao-TSWD-Portfolio/blob/master/AirPollution.png)
+![Trends in Deaths due to Air Pollution](https://github.com/ketakisrao/KetakiRao-TSWD-Portfolio/blob/master/AirPollution.png)
 
+This particular chart is a part of a bigger story that talks about the deaths due to air pollution and the whole intent of this chart is to show that even though the total deaths due to air pollution are decreasing the actual reason behind it is better indoor conditions and not outdoor pollution, ie improved indoor air conditions are the contributors to reduction in deaths due to air pollution. Here is my critique of the above chart:
+
+**Pros:**
+1. The trend is captured by the line chart.
+2. The correct source of data has been attributed.
+**Cons:**
+1. The main message of this chart is to show that deaths due to air pollution have significantly decreased due to improved indoor air conditions. But this seems to get lost with all the color in the chart.
+2. The background/grid lines are of the same thickness as the chart lines which adds to the confusion.
+3. There needs to be some kind of emphasis on the indoor pollution line for it to grab the viewer's attention immediately.
+4. More data points in the number of years makes it harder to notice that outdoor pollution and outdoor ozone pollution have remained almost constant throughout.
+5. The chart’s title needs to be more engaging and descriptive about what the viewer should expect in the chart before reading the explanation.
+
+
+So I decided to work on improving this chart by simplifying it into a slope chart with lesser colors and making design changes so as to call attention to the parts which get the message across. Here is my first iteration:
+![Redesign of Deaths due to Air Pollution](https://github.com/ketakisrao/KetakiRao-TSWD-Portfolio/blob/master/RedesignAirPollution.jpg)
+
+#### Design Decisions
+1. Made the title more engaging and explanatory so that users know what to expect in the chart.
+2. Made the lines for indoor air pollution and total air pollution thicker so as to call attention to them.
+3. Got rid of the grid lines as they add to the "visual clutter" in the chart.
+4. Changed the chart type to slope charts so that the trends are easily visible.
+5. Grayed out the "other" (not so important pieces) of the chart.
+
+
+### Feedback received on testing the redesigned chart
+1. The title is short but confusing.
+2. Not having labels on X and Y axes makes it confusing to understand the data it represents. I thought having the scale in 1000s would make it clear that the y axis refers to number of deaths but the viewers mistook it for the total amount of air pollution.
+3. But the message from the chart is pretty clear and is pretty intuitive.
+
+
+### Final version of the chart
+
+![Final Redesigned Chart](https://github.com/ketakisrao/KetakiRao-TSWD-Portfolio/blob/master/Final%20Redesign.png)
+
+This is the final redesign of the Air Pollution chart. Changes made:
+1. Changed the title to be more descriptive.
+2. Added labels to y axis and appended "year" to x axis items in order to make the chart data easier to interpret. (removing ambiguity)
+3. Added source for credibility.
